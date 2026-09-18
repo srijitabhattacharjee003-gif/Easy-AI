@@ -27,7 +27,7 @@ const PRESENTATION_PATH = [
 ];
 
 export default function Home() {
-  usePageTitle('Making AI More Accessible for Older Adults');
+  usePageTitle('Easy AI Accessible for Older Adults');
 
   return (
     <>
@@ -36,7 +36,7 @@ export default function Home() {
         <div className="container hero-grid">
           <div className="hero-copy">
             <p className="eyebrow">Human–Computer Interaction Research · IIT Kharagpur</p>
-            <h1 className="hero-title">Making AI More Accessible for Older Adults</h1>
+            <h1 className="hero-title">Easy AI Accessible for Older Adults</h1>
             <p className="hero-subtitle">My HCI Research at IIT Kharagpur</p>
             <p className="hero-lead">
               Exploring how AI chat interfaces can become easier, clearer, and more intuitive for
